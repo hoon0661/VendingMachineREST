@@ -1,0 +1,16 @@
+.btnResize{
+    width: 150px;
+    height: 300px;
+    margin: 20px auto;
+}
+
+.resize{
+    width: 20px;
+    height: 40px;
+    margin: 10px 10px;
+}
+
+.sizeInputDiv{
+    margin: 50px;
+    height: 300px;
+}
